@@ -1,2 +1,2 @@
 # NumPy-Python
-Exploring Numpy
+Exploring various python libraries
